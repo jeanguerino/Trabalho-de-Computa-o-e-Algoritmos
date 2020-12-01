@@ -1,3 +1,8 @@
+
+Acesse: https://github.com/jeanguerino/Trabalho-de-Computa-o-e-Algoritmos/wiki/Leia-me
+
+
+
 O lado direito da regra em uma gramática livre de contexto na Forma Normal de Chomsky deve ter comprimento dois.
 
 Portanto, existem 3 tipos de regras que precisam ser removidas / substituídas:
